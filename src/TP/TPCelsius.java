@@ -1,3 +1,5 @@
+package TP;
+
 import java.util.Scanner;
 
 class TPCelsius {
